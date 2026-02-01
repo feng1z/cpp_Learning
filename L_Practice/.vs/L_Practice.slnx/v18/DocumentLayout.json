@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\cpp_Learning\\L_Practice\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{61423B07-9C0A-49DB-91DE-6F810E9707BD}|L_Practice\\L_Practice.vcxproj|E:\\cpp_Learning\\L_Practice\\L_Practice\\src\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61423B07-9C0A-49DB-91DE-6F810E9707BD}|L_Practice\\L_Practice.vcxproj|solutionrelative:L_Practice\\src\\Log.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61423B07-9C0A-49DB-91DE-6F810E9707BD}|L_Practice\\L_Practice.vcxproj|E:\\cpp_Learning\\L_Practice\\L_Practice\\src\\L_Practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{61423B07-9C0A-49DB-91DE-6F810E9707BD}|L_Practice\\L_Practice.vcxproj|solutionrelative:L_Practice\\src\\L_Practice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Log.cpp",
+              "DocumentMoniker": "E:\\cpp_Learning\\L_Practice\\L_Practice\\src\\Log.cpp",
+              "RelativeDocumentMoniker": "L_Practice\\src\\Log.cpp",
+              "ToolTip": "E:\\cpp_Learning\\L_Practice\\L_Practice\\src\\Log.cpp",
+              "RelativeToolTip": "L_Practice\\src\\Log.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-01T18:30:55.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "L_Practice.cpp",
               "DocumentMoniker": "E:\\cpp_Learning\\L_Practice\\L_Practice\\src\\L_Practice.cpp",
               "RelativeDocumentMoniker": "L_Practice\\src\\L_Practice.cpp",
               "ToolTip": "E:\\cpp_Learning\\L_Practice\\L_Practice\\src\\L_Practice.cpp",
               "RelativeToolTip": "L_Practice\\src\\L_Practice.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-01T11:07:48.857Z",
               "EditorCaption": ""

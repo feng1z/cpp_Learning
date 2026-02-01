@@ -1,0 +1,5 @@
+﻿  Main.c
+E:\cpp_Learning\L_test\L_test\Main.c(3,1): error C2054: 在“exturn”之后应输入“(”
+E:\cpp_Learning\L_test\L_test\Main.c(3,12): error C2085: “a”: 不在形参表中
+E:\cpp_Learning\L_test\L_test\Main.c(5,5): error C2085: “main”: 不在形参表中
+E:\cpp_Learning\L_test\L_test\Main.c(6,1): error C2143: 语法错误: 缺少“;”(在“{”的前面)

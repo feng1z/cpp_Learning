@@ -18,5 +18,8 @@
     <ClCompile Include="src\L_Practice.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\Log.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Static.cpp",
-              "DocumentMoniker": "E:\\cpp_Learning\\HelloWorld\\HelloWorld\\Static.cpp",
-              "RelativeDocumentMoniker": "HelloWorld\\Static.cpp",
-              "ToolTip": "E:\\cpp_Learning\\HelloWorld\\HelloWorld\\Static.cpp",
-              "RelativeToolTip": "HelloWorld\\Static.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-02-01T14:23:02.801Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,9 +28,22 @@
               "RelativeDocumentMoniker": "HelloWorld\\Main.cpp",
               "ToolTip": "E:\\cpp_Learning\\HelloWorld\\HelloWorld\\Main.cpp",
               "RelativeToolTip": "HelloWorld\\Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-01T14:19:29.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Static.cpp",
+              "DocumentMoniker": "E:\\cpp_Learning\\HelloWorld\\HelloWorld\\Static.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\Static.cpp",
+              "ToolTip": "E:\\cpp_Learning\\HelloWorld\\HelloWorld\\Static.cpp",
+              "RelativeToolTip": "HelloWorld\\Static.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-01T14:23:02.801Z",
               "EditorCaption": ""
             }
           ]
