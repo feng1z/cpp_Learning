@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\cpp_Learning\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67E93820-6766-49E0-91B0-6F18FCD5F9AB}|HelloWorld\\HelloWorld.vcxproj|E:\\cpp_Learning\\HelloWorld\\HelloWorld\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67E93820-6766-49E0-91B0-6F18FCD5F9AB}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67E93820-6766-49E0-91B0-6F18FCD5F9AB}|HelloWorld\\HelloWorld.vcxproj|E:\\cpp_Learning\\HelloWorld\\HelloWorld\\Static.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67E93820-6766-49E0-91B0-6F18FCD5F9AB}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\Static.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Static.cpp",
+              "DocumentMoniker": "E:\\cpp_Learning\\HelloWorld\\HelloWorld\\Static.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\Static.cpp",
+              "ToolTip": "E:\\cpp_Learning\\HelloWorld\\HelloWorld\\Static.cpp*",
+              "RelativeToolTip": "HelloWorld\\Static.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-01T14:23:02.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "E:\\cpp_Learning\\HelloWorld\\HelloWorld\\Main.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\Main.cpp",
+              "ToolTip": "E:\\cpp_Learning\\HelloWorld\\HelloWorld\\Main.cpp*",
+              "RelativeToolTip": "HelloWorld\\Main.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-01T14:19:29.086Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
